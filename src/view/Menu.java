@@ -21,7 +21,8 @@ public class Menu {
     public void show() {
         int option;
         do {
-            System.out.println("\n1. Ver eventos futuros");
+            System.out.println("=========MENU=============");
+            System.out.println("1. Ver eventos futuros");
             System.out.println("2. Ver eventos atuais");
             System.out.println("3. Ver eventos passados");
             System.out.println("4. Confirmar presença");
